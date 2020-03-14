@@ -1,3 +1,4 @@
 Belajar bekerja dengan github
 -Memulai Freelancer
 -Android Studio
+-UI/UX Design
